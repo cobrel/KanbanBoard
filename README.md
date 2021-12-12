@@ -6,7 +6,7 @@ Screens:
 
 - Gui Login screen
 
-![1](https://user-images.githubusercontent.com/77387138/143566210-2e46dbea-7a71-463f-9ecc-481974150621.JPG)
+![login](https://user-images.githubusercontent.com/77387138/145712842-dd17ea8c-148f-4968-8bd3-1ab25d65e492.JPG)
 
 - Gui Task creator
 
