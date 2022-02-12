@@ -1,8 +1,12 @@
-video:
+Desription
+
+This app was made for personal use to create tasks in Jira, kanbanboard using Java and selenium
+
+Video
 
 https://user-images.githubusercontent.com/77387138/145712658-938a7f32-4108-4da4-ac66-e1101668a1a5.mp4
 
-Screens:
+Screenshots
 
 - Gui Login screen
 
