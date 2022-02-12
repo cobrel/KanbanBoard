@@ -1,18 +1,20 @@
 Description
 -
-This app was made for personal use to create tasks in Jira/Kanban using Java selenium
+
+This app was made for personal use to create tasks in Jira/Kanban using Java selenium.
 
 
 Features
 -
 
 - login
-- select your task by selecting the yes or no option
-- add the hours worked in the combo box
+- create the desired task by selecting the yes option from the adjacent combo box
+- add the hours worked in the adjacent text field
 
 
 Video
 -
+
 https://user-images.githubusercontent.com/77387138/145712658-938a7f32-4108-4da4-ac66-e1101668a1a5.mp4
 
 
