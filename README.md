@@ -26,4 +26,4 @@ Screenshots
 
 - Gui Task creator
 
-![2](https://user-images.githubusercontent.com/77387138/143566302-06debaf7-3afe-47fa-a038-2036b95d2286.JPG)
+![gui2PNG](https://user-images.githubusercontent.com/77387138/154040769-51d49b0a-f59b-4d9d-a27b-17145c67cc11.PNG)
