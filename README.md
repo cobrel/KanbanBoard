@@ -1,7 +1,7 @@
 Description
 -
 
-This app was made for personal use to create tasks in Jira. 
+This Jira app was made for personal use to create issues, log time on them, and change their status to done.
 
 
 Tools used
@@ -10,7 +10,7 @@ Tools used
 - Eclipse
 - Java
 - Selenium WebDriver
-- xpath and css locators
+- Xpath and css locators
 
 
 Video
