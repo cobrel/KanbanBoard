@@ -1,15 +1,15 @@
 Description
 -
 
-This app was made for personal use to create tasks in Jira/Kanban using Java selenium.
+This app was made for personal use to create tasks in Jira. 
 
 
-Features
+Tools used
 -
 
-- login
-- create the desired task by selecting the yes option from the adjacent combo box
-- add the hours worked in the adjacent text field
+- Java Swing
+- Selenium WebDriver
+- xpath and css locators
 
 
 Video
