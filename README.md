@@ -7,7 +7,8 @@ This app was made for personal use to create tasks in Jira.
 Tools used
 -
 
-- Java Swing
+- Eclipse
+- Java
 - Selenium WebDriver
 - xpath and css locators
 
