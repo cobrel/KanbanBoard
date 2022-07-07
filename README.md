@@ -4,7 +4,7 @@ Description
 This Jira app was made for personal use to create issues, log time on them, and change their status to done.
 
 
-Tools used
+Used tools
 -
 
 - Eclipse
