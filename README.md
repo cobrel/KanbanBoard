@@ -1,7 +1,7 @@
 Description
 -
 
-This Jira app was made for personal use to create issues, log time on them, and change their status to done.
+This Jira app was made for personal use to create issues, log time, and change their status to done.
 
 
 Used tools
