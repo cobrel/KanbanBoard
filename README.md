@@ -1,16 +1,8 @@
 Description
 -
 
-This Jira app was made for personal use to create issues, log time, and change their status to done.
-
-
-Used tools
--
-
-- Eclipse
-- Java
-- Selenium WebDriver
-- Xpath and css locators
+This Jira app was created for personal learning purposes using Java and Selenium WebDriver. With its user friendly interface, it provided a convenient and efficient way to create issues, log time, and update issue status to "done" in Jira. 
+Please note that a runnable jar was not provided because it may not work on different Jira servers due to varying field configurations.
 
 
 Video
